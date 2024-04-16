@@ -9,4 +9,4 @@ if (idadeCliente >= idadeMinima){
 
 }
 //condição
-console.log(idadeCliente >= idadeMinima ? )
+console.log(idadeCliente >= idadeMinima ?)
